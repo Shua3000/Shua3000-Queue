@@ -49,7 +49,7 @@ public class Lab {
      * @return the length of queue.
      */
     public int getSize(Queue<String> queue){
-        return queue.size();
+         return queue.size();
     }
 
     /**
